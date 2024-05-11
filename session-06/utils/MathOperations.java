@@ -1,6 +1,9 @@
 package utils;
 
 public class MathOperations {
+    /*
+     * Class methods
+     */
     public static void factorial(int number) {
         if (number <= 0) {
             System.out.println("Debe ingresar un número entero positivo");

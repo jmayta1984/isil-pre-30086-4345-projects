@@ -1,7 +1,9 @@
 package models;
 
 public class Person {
-
+    /*
+     * Fields
+     */
     private String name;
     private int age;
 
@@ -37,7 +39,7 @@ public class Person {
     }
 
     /*
-     * Methods
+     * Instance methods
      */
 
     public void eats(String fruit) {
