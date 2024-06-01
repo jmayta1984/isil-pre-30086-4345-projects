@@ -1,4 +1,5 @@
 - Enunciado
+
 Crear una clase que representa una biblioteca. La biblioteca tiene los siguientes atributos: nombre, listado de libros. Inicialmente de cada libro se cuentan con los siguientes atributos: nombre, autor, cantidad de ejemplares.
 
 Crear para la clase biblioteca los siguientes métodos:
