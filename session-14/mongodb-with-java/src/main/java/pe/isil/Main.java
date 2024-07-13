@@ -11,7 +11,6 @@ public class Main {
     public static void main(String[] args) {
 
         // Crear un cliente de MongoDB
-        //MongoClient client = MongoClients.create("mongodb+srv://userdb:isil2024@cluster0.mgs0mwa.mongodb.net/");
         MongoClient client = MongoClients.create("mongodb://localhost:27017");
 
         // Acceder a una base de datos
